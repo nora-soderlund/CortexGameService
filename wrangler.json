@@ -1,0 +1,4 @@
+{
+  "name": "cortex-game-service",
+  "main": "src/index.ts"
+}

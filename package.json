@@ -1,0 +1,23 @@
+{
+  "name": "cortex-game-service",
+  "version": "0.9.0",
+  "description": "A Cloudflare Workers repository for an experimentaly Cortex game service.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "npx wrangler dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nora-soderlund/CortexGameService.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nora-soderlund/CortexGameService/issues"
+  },
+  "homepage": "https://github.com/nora-soderlund/CortexGameService#readme",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230904.0",
+    "typescript": "^5.2.2"
+  }
+}
